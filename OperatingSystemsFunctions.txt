@@ -4,3 +4,6 @@ mobile devices. It often gets compared to IOS which is known to be more popular 
 IOS, also known to be apart of all Apple devces, are super popular today. It is known for its amazing camera quality, water damage and screen shatter durability, as well as its
 constant updates. However, these updates can be rather annoying; changing the setup and setting menu so often. One other downside is that IOS operating systems are typically very 
 pricey 
+
+Windows is another popular operating system. It is really useful becuase it connects wel with GUI, software, and hardware. It is very user friednly and without it, using computer 
+tasks to perform tasks would be impossible. It also has multiple versions that you can swith from if needed. 
